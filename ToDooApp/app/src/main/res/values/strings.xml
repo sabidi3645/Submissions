@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDooApp</string>
+
+    <string name="hello_world">Edit Item Below:</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="Save">Save</string>
+    <string name="Edit_Item">Edit_Item</string>
+</resources>
